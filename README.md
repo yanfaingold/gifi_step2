@@ -1,4 +1,4 @@
-**commit 2:**
+**commit 3:**-------------
 
-using inspect sources and copying all the code to the local repository, changes the jquery link cause it caused me troubles
+changes some CSS settings for style
 
